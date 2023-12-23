@@ -1,0 +1,30 @@
+.abc{
+display:flex;
+justify-content:space-between;}
+.xyz{
+	display:flex;
+	justify-content:space-between;
+	background-color:gray;
+	border:2px solid black;
+}
+.def{
+	display:flex;
+border:5px solid black;
+justify-content:space-between;}
+.xyz h3{color:white;}
+.b123{
+	display:flex;
+	justify-content:space-between;
+background-color:yellow;}
+.c123{
+color:DodgerBlue;}
+.d123{
+background-color:DodgerBlue;}
+.e123{
+display:flex;}
+.a123{
+background-color:pink;}
+.xyz1{
+display:flex;
+justify-content:space-between;}
+
